@@ -1,5 +1,6 @@
 alias dc='docker-compose'
+alias dcup='docker-compose up -d'
 alias dk='docker'
 alias au='sudo apt-get update'
-alias ag='sudo apt-get upgrade'
+alias ag='sudo apt-get dist-upgrade'
 alias ar='sudo apt-get remove'
