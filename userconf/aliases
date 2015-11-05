@@ -1,0 +1,5 @@
+alias dc='docker-compose'
+alias dk='docker'
+alias au='sudo apt-get update'
+alias ag='sudo apt-get upgrade'
+alias ar='sudo apt-get remove'
